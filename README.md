@@ -12,3 +12,5 @@ npm install react-native-gesture-handler react-native-reanimated
 npm install @react-native-firebase/firestore
 
 copy my src folder and App.js file in your project
+
+npx react-native run-android
